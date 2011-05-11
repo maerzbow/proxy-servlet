@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.googlecode.gwt-proxy-servlet</groupId>
-	<artifactId>proxy</artifactId>
+	<artifactId>proxy-servlet</artifactId>
 	<packaging>jar</packaging>
 	<name>gwt-proxy-servlet</name>
 	<version>1.0.2-SNAPSHOT</version>
